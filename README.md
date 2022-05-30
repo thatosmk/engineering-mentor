@@ -1,6 +1,6 @@
 # Technical Mentorship Programme for Interns/Juniors
 
-A guide on how to become an engineering mentor
+A guide on my journey to becoming an engineering mentor.
 
 Mentorship has always been a real passion for me, I have become a mentor for almost a quarter of my life (from highschool and through university). I enjoyed being a peer mentor, mostly because I could relate to many of my mentees' experiences. Also, to be honest, mentorship is hard, but if done right, it is one of the most fulfilling and fruitful experiences for both parties.
 
@@ -10,9 +10,9 @@ In this very short proposal, I provide a process that I will take as an engineer
 
 ## The process
 
-### Be available
+### Be available and interested
 
-Being available to listen and respond to questions that mentees may have. Overall, being available means showing up for meetings, being there when needed (within reason of course). This helps you become dependable and can lead to more fruitful interactions as time goes. 
+Being available to listen and respond to questions that mentees may have. Overall, being available means showing up for meetings, being there when needed (within reason of course). This helps you become dependable and can lead to more fruitful interactions as time goes. Setup weekly 1-on-1's to make sure they’re learning what they hoped to learn and are enjoying/passoinate about the work that they do.
 
 ### Be friendly and open-minded
 
@@ -45,3 +45,9 @@ Help them through the tech stack, in my case it will be issues around but not li
 - Helping them use Git/Github the way we use it.
 - Helping them understand the anatomy of a good Pull Request
 - Helping them through understanding code reviews and how to receive and respond to feedback.
+
+
+## References
+
+- [Being an engineering mentor](https://www.xkyle.com/Being-a-Great-Engineering-Mentor/)
+- [The magic relationship ratio](https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/)
